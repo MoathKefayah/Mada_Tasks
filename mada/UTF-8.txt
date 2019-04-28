@@ -1,0 +1,26 @@
+
+DELETE FROM userstb;
+ALTER TABLE userstb AUTO_INCREMENT = 1;
+
+
+/*
+ALTER DATABASE madadb
+ CHARACTER SET utf8
+ DEFAULT CHARACTER SET utf8
+ COLLATE utf8_general_ci
+ DEFAULT COLLATE utf8_general_ci
+ ;
+ */
+ 
+ ALTER TABLE userstb
+ DEFAULT CHARACTER SET utf8
+ COLLATE utf8_general_ci
+ ;
+ 
+ 
+ 
+ # SET NAMES 'utf8';
+ 
+#SET CHARACTER SET UTF8;
+
+#SHOW VARIABLES LIKE 'c%' ;

@@ -1,0 +1,418 @@
+/***** Media Screens ******/
+
+
+
+
+
+ @media screen and (min-width: 1880px) and (max-width: 1920px) {  
+
+    /*.uk-container{
+
+        width: 1920px !important;        
+
+        max-width: 1920px !important;        
+
+    }*/
+
+}
+
+ 
+
+ @media screen and (min-width: 1224px) {
+
+
+
+}
+
+
+
+ @media screen and (min-width: 4096px) {
+
+   /* .uk-container{
+
+        width: 1280px !important;        
+
+        max-width: 1280px !important;        
+
+    }*/
+
+    .uk-container{
+
+        width: 4096px !important;        
+
+        max-width: 4096px !important;        
+
+    }
+
+}
+ @media screen and (min-width: 2560px) {
+
+   /* .uk-container{
+
+        width: 1280px !important;        
+
+        max-width: 1280px !important;        
+
+    }*/
+
+    .uk-container{
+
+        width: 2560px !important;        
+
+        max-width: 2560px !important;        
+
+    }
+
+}
+
+ @media screen and (min-width: 1920px) {
+
+   /* .uk-container{
+
+        width: 1280px !important;        
+
+        max-width: 1280px !important;        
+
+    }*/
+
+    .uk-container{
+
+        width: 1920px !important;        
+
+        max-width: 1920px !important;        
+
+    }
+
+}
+
+ @media screen and (min-width: 1680px) {
+
+   /* .uk-container{
+
+        width: 1280px !important;        
+
+        max-width: 1280px !important;        
+
+    }*/
+
+    .uk-container{
+
+        width: 1680px !important;        
+
+        max-width: 1680px !important;        
+
+    }
+
+}
+
+ @media screen and (min-width: 1080px) and (max-width: 1680px) {
+
+     /***************************************/
+     .uk-container{
+
+        width: 75% !important;        
+
+        max-width: 75% !important;        
+
+    }
+
+ }
+
+
+/* @media screen and (max-width: 1366px) {
+
+ 	.uk-container{
+
+        width: 1366px !important;        
+
+        max-width: 1366px !important;        
+
+    }
+
+}*/
+ @media screen and (max-width: 1080px) {
+
+ 	.uk-container{
+
+        width: 1080px !important;        
+
+        max-width: 1080px !important;        
+
+    }
+
+}
+
+
+
+ @media screen and (max-width: 1024px) {
+
+ 	.uk-container{
+
+        width: 1024px !important;        
+
+        max-width: 1024px !important;        
+
+    }
+
+} 
+
+
+
+@media screen and (max-width: 1023px) {
+
+	/***************************************/
+
+	.uk-container{
+
+		width: 97% !important;
+
+		padding-right: 50px;		
+
+		margin-right:7.5px
+
+	}
+
+
+
+	.right , .left , .middele {
+
+		display: none;
+
+	}
+
+	.responsive-header{
+
+		display: block !important;
+
+	}
+
+	.middle-side{
+
+		width: 100% !important;
+
+	}
+
+    .mada-app2{
+
+        font-size: 22px;
+
+        text-align: center;
+
+    }
+
+}
+
+
+
+/* iPads (portrait and landscape) ----------- */
+
+
+
+ @media screen and (min-width: 800px) and (max-width: 850px) {
+
+     /***************************************/
+
+ }
+
+ @media screen and (min-width: 800px) and (max-width: 1024px) {
+
+
+
+    /***************************************/
+
+}
+
+ @media screen and (min-width: 768px) and (max-width: 1044px) {
+
+
+
+}
+
+
+
+/* iPads (landscape) ----------- */
+
+
+
+ @media only screen and (max-width : 1044px) and (min-width : 992px) {
+
+    /***************************************/
+
+}
+
+
+
+ @media screen and (max-width: 982px) and (min-width: 769px) {
+
+
+
+
+
+
+
+}
+
+
+
+ @media (max-width: 959px) and (min-width: 769px) {
+
+ 
+
+
+
+}
+
+
+
+ @media screen and (max-width: 800px) {
+
+ 
+
+
+
+}
+
+
+
+ @media screen and (max-width: 768px) {
+
+    /***************************************/
+
+}
+
+
+
+ @media screen and (max-width: 640px) {
+
+ 
+
+ 	/***************************************/
+ 	.slider-dis {
+ 		padding-top: 25px !important;
+ 	}
+
+    .main-body-content{
+        margin-bottom: 150px !important;
+    }
+	
+
+}
+
+
+
+ @media screen and (max-width: 568px) {
+
+     /***************************************/
+
+     .sparator{
+
+     	margin-top: 15px !important;
+
+     	margin-bottom: 15px !important;
+
+     }
+
+     .second-div{
+
+     	margin-top: 15px !important;
+
+     }
+
+     .second-div .uk-width-1-4{
+
+     	width: 50% !important;
+
+     	padding-top: 15px;
+
+     }
+
+     .owl-nav,.owl-dots{
+
+        display: none !important;
+
+     }
+
+
+
+    .reservation-option>.btn-group>.uk-grid>.uk-width-1-3{
+
+        width: 100% !important;
+
+    }
+
+
+
+    .contactus , .contactwithu{
+
+        width: 100% !important;
+
+    }
+
+    .contactwithu{
+
+        border-right: none !important;
+
+        margin-top: 50px;
+
+    }
+
+ }
+
+
+
+ @media screen and (max-width: 610px) {
+
+	
+
+ }
+
+
+
+ @media screen and (max-width: 480px) {
+
+
+
+ }
+
+
+
+ @media (min-width: 360px) and (max-width: 410px) {
+
+	/***************************************/
+
+ }
+
+
+
+ @media screen and (max-width: 380px) {
+
+	/***************************************/
+
+	.first-div .uk-width-1-4{
+
+     	width: 50% !important;
+
+     	padding-top: 10px;
+
+     }
+
+     .second-div .uk-width-1-4{
+
+     	width: 50% !important;
+
+     	padding-top: 10px;
+
+     }
+
+ }
+
+
+
+ @media screen and (max-width: 320px) {
+
+
+
+ }
+
+
+
