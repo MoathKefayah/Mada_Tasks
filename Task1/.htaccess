@@ -1,0 +1,15 @@
+<Files ~"^.*\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</Files>
+
+
+#IndexIgnore *.php
+
+#<Files customer.php>
+#order deny,allow
+#deny from all
+#</Files>
+
+
